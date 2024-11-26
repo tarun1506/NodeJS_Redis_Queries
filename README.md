@@ -18,8 +18,8 @@ Ensure you have the following installed on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tweet-analysis.git
-   cd tweet-analysis
+   git clone https://github.com/tarun1506/NodeJS_Redis_Queries.git
+   cd NodeJS_Redis_Queries
    ```
 2. Install the required dependencies:
    ```bash
