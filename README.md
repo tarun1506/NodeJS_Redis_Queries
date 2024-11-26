@@ -19,7 +19,7 @@ Ensure you have the following installed on your system:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/tweet-analysis.git
-    cd tweet-analysis
+   cd tweet-analysis
    ```
 2. Install the required dependencies:
    ```bash
